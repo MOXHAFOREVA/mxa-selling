@@ -16,7 +16,7 @@ MXA = {
                 text     = "Mallari satmak icin ~r~[E]~s~ bas",
                 location = vector3(-1074.68, 4798.19, 228.34),
                 drawcord = {x = -1074.68, y = 4798.19, z = 228.34},
-                item     = {'madde_y'},  
+                item     = 'madde_y',  
                 price    = 7000000
             }
         }
